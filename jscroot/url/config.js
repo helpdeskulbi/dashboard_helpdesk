@@ -6,34 +6,34 @@ import {folderPath} from "https://cdn.jsdelivr.net/gh/jscroot/url@0.0.9/croot.js
 
 export const backend={
     user:{
-        data:"https://gw.ulbi.ac.id/pamongdesa/data/user",
-        todo:"https://gw.ulbi.ac.id/pamongdesa/data/user/task/todo",
-        doing:"https://gw.ulbi.ac.id/pamongdesa/data/user/task/doing",
-        done:"https://gw.ulbi.ac.id/pamongdesa/data/user/task/done",
+        data:"https://msg.ulbi.ac.id/pamongdesa/data/user",
+        todo:"https://msg.ulbi.ac.id/pamongdesa/data/user/task/todo",
+        doing:"https://msg.ulbi.ac.id/pamongdesa/data/user/task/doing",
+        done:"https://msg.ulbi.ac.id/pamongdesa/data/user/task/done",
     },
     helpdesk:{
-        all:"https://gw.ulbi.ac.id/pamongdesa/data/user/helpdesk/all",
-        masuk:"https://gw.ulbi.ac.id/pamongdesa/data/user/helpdesk/masuk",
-        selesai:"https://gw.ulbi.ac.id/pamongdesa/data/user/helpdesk/selesai",
+        all:"https://msg.ulbi.ac.id/pamongdesa/data/user/helpdesk/all",
+        masuk:"https://msg.ulbi.ac.id/pamongdesa/data/user/helpdesk/masuk",
+        selesai:"https://msg.ulbi.ac.id/pamongdesa/data/user/helpdesk/selesai",
     },
     wa:{
         text:"https://api.wa.my.id/api/v2/send/message/text",
         device:"https://api.wa.my.id/api/device/",
     },
     project:{
-        data:"https://gw.ulbi.ac.id/pamongdesa/data/proyek",
-        anggota:"https://gw.ulbi.ac.id/pamongdesa/data/proyek/anggota",
+        data:"https://msg.ulbi.ac.id/pamongdesa/data/proyek",
+        anggota:"https://msg.ulbi.ac.id/pamongdesa/data/proyek/anggota",
     },
     sender:{
-        data:"https://gw.ulbi.ac.id/pamongdesa/data/sender",
-        blokir:"https://gw.ulbi.ac.id/pamongdesa/data/blokir",
-        rekap:"https://gw.ulbi.ac.id/pamongdesa/data/rekap",
+        data:"https://msg.ulbi.ac.id/pamongdesa/data/sender",
+        blokir:"https://msg.ulbi.ac.id/pamongdesa/data/blokir",
+        rekap:"https://msg.ulbi.ac.id/pamongdesa/data/rekap",
     },
     ux:{
-        feedback:"https://gw.ulbi.ac.id/pamongdesa/notif/ux/postfeedback",
-        laporan:"https://gw.ulbi.ac.id/pamongdesa/notif/ux/postlaporan",
-        rating:"https://gw.ulbi.ac.id/pamongdesa/notif/ux/rating",
-        meeting:"https://gw.ulbi.ac.id/pamongdesa/notif/ux/postmeeting",
+        feedback:"https://msg.ulbi.ac.id/pamongdesa/notif/ux/postfeedback",
+        laporan:"https://msg.ulbi.ac.id/pamongdesa/notif/ux/postlaporan",
+        rating:"https://msg.ulbi.ac.id/pamongdesa/notif/ux/rating",
+        meeting:"https://msg.ulbi.ac.id/pamongdesa/notif/ux/postmeeting",
     }
 }
 
