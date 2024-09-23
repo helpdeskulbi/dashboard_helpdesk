@@ -26,6 +26,6 @@ function getUserFunction(result) {
     }
   } 
   else {
-    redirect("/login");
+    redirect("login.ulbi.ac.id");
   }
 }
