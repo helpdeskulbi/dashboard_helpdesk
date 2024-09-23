@@ -6,34 +6,34 @@ import {folderPath} from "https://cdn.jsdelivr.net/gh/jscroot/url@0.0.9/croot.js
 
 export const backend={
     user:{
-        data:"https://https://asia-southeast2-awangga.cloudfunctions.net/pamongdesa/data/user",
-        todo:"https://https://asia-southeast2-awangga.cloudfunctions.net/pamongdesa/data/user/task/todo",
-        doing:"https://https://asia-southeast2-awangga.cloudfunctions.net/pamongdesa/data/user/task/doing",
-        done:"https://https://asia-southeast2-awangga.cloudfunctions.net/pamongdesa/data/user/task/done",
+        data:"https://asia-southeast2-awangga.cloudfunctions.net/pamongdesa/data/user",
+        todo:"https://asia-southeast2-awangga.cloudfunctions.net/pamongdesa/data/user/task/todo",
+        doing:"https://asia-southeast2-awangga.cloudfunctions.net/pamongdesa/data/user/task/doing",
+        done:"https://asia-southeast2-awangga.cloudfunctions.net/pamongdesa/data/user/task/done",
     },
     helpdesk:{
-        all:"https://https://asia-southeast2-awangga.cloudfunctions.net/pamongdesa/data/user/helpdesk/all",
-        masuk:"https://https://asia-southeast2-awangga.cloudfunctions.net/pamongdesa/data/user/helpdesk/masuk",
-        selesai:"https://https://asia-southeast2-awangga.cloudfunctions.net/pamongdesa/data/user/helpdesk/selesai",
+        all:"https://asia-southeast2-awangga.cloudfunctions.net/pamongdesa/data/user/helpdesk/all",
+        masuk:"https://asia-southeast2-awangga.cloudfunctions.net/pamongdesa/data/user/helpdesk/masuk",
+        selesai:"https://asia-southeast2-awangga.cloudfunctions.net/pamongdesa/data/user/helpdesk/selesai",
     },
     wa:{
         text:"https://api.wa.my.id/api/v2/send/message/text",
         device:"https://api.wa.my.id/api/device/",
     },
     project:{
-        data:"https://https://asia-southeast2-awangga.cloudfunctions.net/pamongdesa/data/proyek",
-        anggota:"https://https://asia-southeast2-awangga.cloudfunctions.net/pamongdesa/data/proyek/anggota",
+        data:"https://asia-southeast2-awangga.cloudfunctions.net/pamongdesa/data/proyek",
+        anggota:"https://asia-southeast2-awangga.cloudfunctions.net/pamongdesa/data/proyek/anggota",
     },
     sender:{
-        data:"https://https://asia-southeast2-awangga.cloudfunctions.net/pamongdesa/data/sender",
-        blokir:"https://https://asia-southeast2-awangga.cloudfunctions.net/pamongdesa/data/blokir",
-        rekap:"https://https://asia-southeast2-awangga.cloudfunctions.net/pamongdesa/data/rekap",
+        data:"https://asia-southeast2-awangga.cloudfunctions.net/pamongdesa/data/sender",
+        blokir:"https://asia-southeast2-awangga.cloudfunctions.net/pamongdesa/data/blokir",
+        rekap:"https://asia-southeast2-awangga.cloudfunctions.net/pamongdesa/data/rekap",
     },
     ux:{
-        feedback:"https://https://asia-southeast2-awangga.cloudfunctions.net/pamongdesa/notif/ux/postfeedback",
-        laporan:"https://https://asia-southeast2-awangga.cloudfunctions.net/pamongdesa/notif/ux/postlaporan",
-        rating:"https://https://asia-southeast2-awangga.cloudfunctions.net/pamongdesa/notif/ux/rating",
-        meeting:"https://https://asia-southeast2-awangga.cloudfunctions.net/pamongdesa/notif/ux/postmeeting",
+        feedback:"https://asia-southeast2-awangga.cloudfunctions.net/pamongdesa/notif/ux/postfeedback",
+        laporan:"https://asia-southeast2-awangga.cloudfunctions.net/pamongdesa/notif/ux/postlaporan",
+        rating:"https://asia-southeast2-awangga.cloudfunctions.net/pamongdesa/notif/ux/rating",
+        meeting:"https://asia-southeast2-awangga.cloudfunctions.net/pamongdesa/notif/ux/postmeeting",
     }
 }
 
