@@ -26,7 +26,7 @@ function getUserFunction(result) {
     }
   } 
   else {
-    redirect("/");
+    // redirect("/");
     console.log("kaka udah masuk yaa")
   }
 }
