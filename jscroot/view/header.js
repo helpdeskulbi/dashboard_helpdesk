@@ -26,7 +26,7 @@ function getUserFunction(result) {
     }
   } 
   else {
-    // redirect("helpdesk.ulbi.ac.id");
+    redirect("/");
     console.log("kaka udah masuk yaa")
   }
 }
